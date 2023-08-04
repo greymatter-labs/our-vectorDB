@@ -7,7 +7,7 @@
 
 The `VectorDatabase` class can be initialized with the following parameters:
 
-- `n_trees` (optional): The number of trees for the Annoy index. The default value is 10.
+- `n_trees` (optional): The number of trees for the Annoy index. The default value is 10. Increasing this value will increase indexing time while decreasing query time.
 
 ## Methods
 
