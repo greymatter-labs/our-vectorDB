@@ -1,5 +1,5 @@
 
-# VectorDatabase
+# GZIP Vector Database
 
 `VectorDatabase` is a class for storing and searching text documents in a high-dimensional vector space. It uses the Annoy library for approximate nearest neighbor search, which allows for efficient querying of large databases.
 
